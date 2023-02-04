@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cd7d101.css",
-    "main.js": "/static/js/main.eb0055fe.js",
-    "static/media/flower2.jpg": "/static/media/flower2.a2d455d3238cf9afe8ae.jpg",
-    "static/media/flower.jpg": "/static/media/flower.641baee918d54013fe3c.jpg",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.9cd7d101.css.map": "/static/css/main.9cd7d101.css.map",
-    "main.eb0055fe.js.map": "/static/js/main.eb0055fe.js.map"
+    "main.css": "/Sustainable-advancement/static/css/main.573de433.css",
+    "main.js": "/Sustainable-advancement/static/js/main.eb0055fe.js",
+    "static/media/flower2.jpg": "/Sustainable-advancement/static/media/flower2.a2d455d3238cf9afe8ae.jpg",
+    "static/media/flower.jpg": "/Sustainable-advancement/static/media/flower.641baee918d54013fe3c.jpg",
+    "static/media/revicons.eot": "/Sustainable-advancement/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Sustainable-advancement/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Sustainable-advancement/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Sustainable-advancement/index.html",
+    "main.573de433.css.map": "/Sustainable-advancement/static/css/main.573de433.css.map",
+    "main.eb0055fe.js.map": "/Sustainable-advancement/static/js/main.eb0055fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cd7d101.css",
+    "static/css/main.573de433.css",
     "static/js/main.eb0055fe.js"
   ]
 }
